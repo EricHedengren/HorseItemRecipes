@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "horsearmorrecipes:golden_horse_armor"
+        "recipe": "horseitemrecipes:golden_horse_armor"
       }
     }
   },

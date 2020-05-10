@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "horsearmorrecipes:emerald_horse_armor"
+        "recipe": "horseitemrecipes:emerald_horse_armor"
       }
     }
   },
