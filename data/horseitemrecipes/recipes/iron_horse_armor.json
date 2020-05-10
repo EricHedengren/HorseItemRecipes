@@ -10,7 +10,7 @@
 			"item": "minecraft:iron_ingot"
 		},
 		"X": {
-			"item": "minecraft:saddle"
+			"tag": "minecraft:wool"
 		}
 	},
 	"result": {

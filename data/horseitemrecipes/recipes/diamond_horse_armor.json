@@ -10,7 +10,7 @@
 			"item": "minecraft:diamond"
 		},
 		"X": {
-			"item": "minecraft:saddle"
+			"tag": "minecraft:wool"
 		}
 	},
 	"result": {
