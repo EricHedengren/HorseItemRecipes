@@ -1,0 +1,43 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)" #mandatory
+
+issueTrackerURL="https://github.com/EricHedengren/HorseItemRecipes/issues" #optional
+
+[[mods]] #mandatory
+
+modId="horseitemrecipes" #mandatory
+
+version="${file.jarVersion}" #mandatory
+
+displayName="Horse Item Recipes" #mandatory
+
+updateJSONURL="https://gist.github.com/EricHedengren/5b34cbc0bd9c236de837bdfba8adc9f0/raw" #optional
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/horse-item-recipes" #optional
+
+logoFile="icon.png" #optional
+
+credits="Thanks for this mod goes to Java" #optional
+
+authors="BaconBombing" #optional
+
+description='''
+Just adds some horse recipes. Check out the homepage link to see what those recipes are.
+
+It also adds a recipe for emerald horse armor, but the actual armor is created in a mod called Standard Materials. So if you don't have Standard Materials installed and you attempt to make the emerald horse armor, that's why it doesn't work.
+'''
+
+[[dependencies.horseitemrecipes]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[31,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.horseitemrecipes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
