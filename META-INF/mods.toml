@@ -23,9 +23,7 @@ credits="Thanks for this mod goes to Java" #optional
 authors="BaconBombing" #optional
 
 description='''
-Just adds some horse recipes. Check out the homepage link to see what those recipes are.
-
-It also adds a recipe for emerald horse armor, but the actual armor is created in a mod called Standard Materials. So if you don't have Standard Materials installed and you attempt to make the emerald horse armor, that's why it doesn't work.
+This mod adds crafting recipes for vanilla Horse Armor and Saddles, as well as Emerald Horse Armor from the Standard Materials mod.
 '''
 
 [[dependencies.horseitemrecipes]] #optional
