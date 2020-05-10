@@ -1,0 +1,15 @@
+[
+{
+  "modid": "horseitemrecipes",
+  "name": "Horse Item Recipes",
+  "description": "This mod adds crafting recipes for vanilla Horse Armor and Saddles, as well as Emerald Horse Armor from the Standard Materials mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/horse-item-recipes",
+  "updateUrl": "https://gist.github.com/EricHedengren/5b34cbc0bd9c236de837bdfba8adc9f0/raw",
+  "authorList": ["BaconBombing"],
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
