@@ -8,7 +8,7 @@
   "url": "https://www.curseforge.com/minecraft/mc-mods/horse-item-recipes",
   "updateUrl": "https://gist.github.com/EricHedengren/5b34cbc0bd9c236de837bdfba8adc9f0/raw",
   "authorList": ["BaconBombing"],
-  "logoFile": "logo.png",
+  "logoFile": "assets/horseitemrecipes/textures/icon.png",
   "screenshots": [],
   "dependencies": []
 }
